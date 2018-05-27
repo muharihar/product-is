@@ -40,7 +40,7 @@ System Requirements
 5. To build WSO2 Identity Server from the Source distribution, it is also necessary that you have Maven 3 or later.
 
 For more details see
-   http://docs.wso2.com/display/IS541/Installation+Prerequisites (For latest released version)
+   http://docs.wso2.com/display/IS550/Installation+Prerequisites (For latest released version)
    http://docs.wso2.com/display/IS560/Installation+Prerequisites (For current development version)
 
 
@@ -50,7 +50,7 @@ Project Resources
 * Home page          : http://wso2.com/products/identity-server
 * Library            : http://wso2.org/library/identity
 * Wiki 
-    * Latest released version     : http://docs.wso2.org/wiki/display/IS541/WSO2+Identity+Server+Documentation
+    * Latest released version     : http://docs.wso2.org/wiki/display/IS550/WSO2+Identity+Server+Documentation
     * Current development version : http://docs.wso2.org/wiki/display/IS560/WSO2+Identity+Server+Documentation
 * Issue Tracker      : https://github.com/wso2/product-is/issues      
 * Forums             : http://stackoverflow.com/questions/tagged/wso2is/
